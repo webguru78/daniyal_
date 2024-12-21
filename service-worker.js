@@ -8,9 +8,9 @@ const assetsToCache = [
   "blog-detail.html",
   "portfolio-light.html",
   "manifest.json",
-  "assets/styles.css", // Add your CSS or other assets
-  "assets/icon-192x192.png", // Replace with your actual icons
-  "assets/icon-512x512.png"
+  "assets/css/main.css", // Add your CSS or other assets
+  "assets/logo-dark.png"", // Replace with your actual icons
+  "assets/logo-dark.png""
 ];
 
 // Install Service Worker
