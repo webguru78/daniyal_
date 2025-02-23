@@ -33,6 +33,10 @@ Description: Gerold - Personal Portfolio HTML5 Template
 
 ****************************************************/
 
+
+
+
+
 (function ($) {
 	"use strict";
 
